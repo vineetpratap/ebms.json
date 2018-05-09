@@ -1,0 +1,12 @@
+{
+  "data": {
+    "type": "queue-jobs",
+    "id": "5234",
+    "attributes": {
+      "status": "Pending request, waiting other process"
+    },
+    "links": {
+      "self": "/photos/queue-jobs/5234"
+    }
+  }
+}
